@@ -15,3 +15,6 @@ def random_numb():
     """
     import random
     return random.random()
+
+def hello(name):
+    print(f'Hello {name}!')
